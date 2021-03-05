@@ -1,9 +1,3 @@
-// ADC.c:  Shows how to use the 14-bit ADC.  This program
-// measures the voltage from some pins of the EFM8LB1 using the ADC.
-//
-// (c) 2008-2018, Jesus Calvino-Fraga
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <EFM8LB1.h>
